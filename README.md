@@ -12,5 +12,8 @@ d) USB micro-b connector.
 
 Hardware connections: 
 
+![MAX77958EVKIT](https://github.com/user-attachments/assets/a1bbf2c4-171c-4cee-a1d5-d90ca4c5299a)
+
+
 
 
