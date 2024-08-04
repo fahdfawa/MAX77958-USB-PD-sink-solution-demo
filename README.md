@@ -44,7 +44,7 @@ GUI Operation:
    ![Screenshot 2024-08-04 131351](https://github.com/user-attachments/assets/dc8c716c-465f-4319-bf78-96deffdbc166)
 
 5) If looking for an API for USB PD charging for MAX77958, MAX77986, MAX17262 controlled by MAX32660, please refer the Github link below:
-
+   https://github.com/fahdfawa/USB-PD-1cell-sink-solution-API/tree/main
 
 
    
