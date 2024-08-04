@@ -1482,7 +1482,6 @@ Reverse_current_limit_slider.grid(row = 1, column = 3, padx = 20 , pady = 3,stic
 
     
 # Initially hide frame1, frame2, and frame3
-
 frame1.place_forget()
 frame2.place_forget()
 frame3.place_forget()
@@ -1493,16 +1492,8 @@ frame22.place_forget()
 
 
 #start serial port
-
-# =============================================================================
-#s = sr.Serial('COM8',115200); #always set this before starting
-#s.reset_input_buffer()
-# =============================================================================
-
-
-
-
-    
+s = sr.Serial('COM8',115200); #always set this before starting
+s.reset_input_buffer()
 
 
 root.mainloop()
