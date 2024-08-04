@@ -33,6 +33,17 @@ GUI Operation:
 2) Select the respective COMM port and select baud rate of 115200 and press connect. A window will pop up showing the connection status.
   ![Connection_tab](https://github.com/user-attachments/assets/a4fbd1e2-70f8-4ce7-b7ba-516583e7c312)
 
+3) Now connect the PD compliant adapter and Go to Quick Run tab to understand the details of the adapter connected.
+   Based on the available PDOs, the user can change the voltage and current on the fly from the "Choose from available PDOs" tab.
+   The "Sink PDO Setting" allows user to set an initial plugin voltage like 5V,9V and so on. The "PPS mode" demonstrates the using of PPS option in MAX77958 if a PPS compliant adapter is plugged in.
+   The "Charger Settings" tab allows the charger (MAX77986) configuration. The "OTG settings" tab allows enabling the Reverse OTG power mode.
+   ![Quickrun](https://github.com/user-attachments/assets/2a050c33-12c4-4c8f-a9d2-95fdc4f8e16b)
+
+4) Using the "Commands" tab, the user can issue various commands to control and monitor the various functionalities in binary values. Refer USB PD documentation in USB.org to understand the register format
+   of source and sink PDOs.
+   
+
+
    
 
 
