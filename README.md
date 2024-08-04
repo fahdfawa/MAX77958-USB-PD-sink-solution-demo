@@ -27,10 +27,13 @@ d) Toggle the switch SW1 to left to connect to SCLM and SDAM (master I2C port of
 
 GUI Operation:
 1) Once the MAX32660EVSYS is connected to the PC, a USB drive named DAPLINK can be seen.
-   Go to  Drag and drop the binary driver file 
+   Drag and drop the binary driver file "GUI_exe_Driver_bin/USB_PD_1_cell_Driver" to the DAPLINK to flash the driver to the microcontroller and press the reset button of MAX32660EVSYS for the program to take 
+   effective.
 
-3) Select the respective COMM port and baud rate of 115200.
+2) Select the respective COMM port and select baud rate of 115200 and press connect. A window will pop up showing the connection status.
   ![Connection_tab](https://github.com/user-attachments/assets/a4fbd1e2-70f8-4ce7-b7ba-516583e7c312)
+
+   
 
 
 
