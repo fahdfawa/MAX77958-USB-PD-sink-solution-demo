@@ -41,7 +41,10 @@ GUI Operation:
 
 4) Using the "Commands" tab, the user can issue various commands to control and monitor the various functionalities in binary values. Refer USB PD documentation in USB.org to understand the register format
    of source and sink PDOs.
-   
+   ![Screenshot 2024-08-04 131351](https://github.com/user-attachments/assets/dc8c716c-465f-4319-bf78-96deffdbc166)
+
+5) If looking for an API for USB PD charging for MAX77958, MAX77986, MAX17262 controlled by MAX32660, please refer the Github link below:
+
 
 
    
