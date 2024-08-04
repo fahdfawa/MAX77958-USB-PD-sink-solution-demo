@@ -25,6 +25,14 @@ d) Toggle the switch SW1 to left to connect to SCLM and SDAM (master I2C port of
    Refer MAX77958 opcode command guide to understand the working.
    https://www.analog.com/media/en/technical-documentation/user-guides/max77958-customization-script-and-opcode-command-guide.pdf
 
+GUI Operation:
+1) Once the MAX32660EVSYS is connected to the PC, a USB drive named DAPLINK can be seen.
+   Go to  Drag and drop the binary driver file 
+
+3) Select the respective COMM port and baud rate of 115200.
+  ![Connection_tab](https://github.com/user-attachments/assets/a4fbd1e2-70f8-4ce7-b7ba-516583e7c312)
+
+
 
    
 
