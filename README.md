@@ -10,9 +10,15 @@ c) Single cell Li-ion battery (18650)
 
 d) USB micro-b connector.
 
-Hardware connections: 
+Block Diagram: 
 
-![MAX77958EVKIT](https://github.com/user-attachments/assets/a1bbf2c4-171c-4cee-a1d5-d90ca4c5299a)
+![BlockDiagram1](https://github.com/user-attachments/assets/5fb63d4f-b7c9-4fa4-b469-2c377c283061)
+
+Hardware Connections Required:
+
+
+
+
 
 
 
